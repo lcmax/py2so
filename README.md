@@ -161,6 +161,4 @@ The ignore compiled files, directories are specified in the script, you can modi
 ## requirements
 Make sure that `gcc` and `cython` are installed.
 ## Author
-
-wangleyi@baidu.com
-
+leyiwang.cn@gmail.com
