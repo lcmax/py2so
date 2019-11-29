@@ -4,7 +4,7 @@
   toolkit to compile a python project into dynamic link library files
 
   Author: wangleyi
-  Email: wangleyi@baidu.com
+  Email: leyiwang.cn@gmail.com
   File:  py2so.py
   Date: 2019-02-27 14:06
 """
